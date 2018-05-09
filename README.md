@@ -1,7 +1,7 @@
 # Spectre
 Build ghostly, haunted, impervious,  near-weightless and non-corporeal.. rather spectral ships in Avorion.
 
-
+## Update 2018: Avorion now automatically handles negative sized blocks in a sane manner: they are not considered valid blocks and will not work, or will result in positive-sized blocks.
 
 So, what does this do?
 
